@@ -25,7 +25,7 @@
    | Done                            | No. | Questions                                                                                                                                            |
    | ------------------------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
    | <ul><li>[x] Tries: 5 </li></ul> | 1   | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                     |
-   | <ul><li>[ ] Tries: 0 </li></ul> | 2   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)                       |
+   | <ul><li>[x] Tries: 2 </li></ul> | 2   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)                       |
    | <ul><li>[ ] Tries: 0 </li></ul> | 3   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                                                         |
    | <ul><li>[x] Tries: 0 </li></ul> | 4   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)                                                                 |
    | <ul><li>[ ] Tries: 0 </li></ul> | 5   | [3Sum](https://leetcode.com/problems/3sum)                                                                                                           |
