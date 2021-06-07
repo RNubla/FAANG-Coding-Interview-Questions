@@ -32,7 +32,7 @@
    | <ul><li>[ ] Tries: 0 </li></ul> | 6   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)                                                   |
    | <ul><li>[x] Tries: 2 </li></ul> | 7   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                                 |
    | <ul><li>[x] Tries: 2 </li></ul> | 8   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                                                       |
-   | <ul><li>[ ] Tries: 0 </li></ul> | 9   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                                                           |
+   | <ul><li>[x] Tries: 1 </li></ul> | 9   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                                                           |
    | <ul><li>[ ] Tries: 0 </li></ul> | 10  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)                                                       |
    | <ul><li>[ ] Tries: 0 </li></ul> | 11  | [Combination Sum](https://leetcode.com/problems/combination-sum)                                                                                     |
    | <ul><li>[ ] Tries: 0 </li></ul> | 12  | [Rotate Image](https://leetcode.com/problems/rotate-image)                                                                                           |
