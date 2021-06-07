@@ -35,7 +35,7 @@
    | <ul><li>[x] Tries: 1 </li></ul> | 9   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                                                           |
    | <ul><li>[ ] Tries: 0 </li></ul> | 10  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)                                                       |
    | <ul><li>[ ] Tries: 0 </li></ul> | 11  | [Combination Sum](https://leetcode.com/problems/combination-sum)                                                                                     |
-   | <ul><li>[ ] Tries: 0 </li></ul> | 12  | [Rotate Image](https://leetcode.com/problems/rotate-image)                                                                                           |
+   | <ul><li>[x] Tries: 2 </li></ul> | 12  | [Rotate Image](https://leetcode.com/problems/rotate-image)                                                                                           |
    | <ul><li>[ ] Tries: 0 </li></ul> | 13  | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                                                                       |
    | <ul><li>[ ] Tries: 0 </li></ul> | 14  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                                                                   |
    | <ul><li>[ ] Tries: 0 </li></ul> | 15  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)                                                                                         |
