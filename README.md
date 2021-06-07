@@ -29,7 +29,7 @@
    | <ul><li>[x] Tries: 1 </li></ul> | 3   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                                                         |
    | <ul><li>[x] Tries: 0 </li></ul> | 4   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)                                                                 |
    | <ul><li>[ ] Tries: 0 </li></ul> | 5   | [3Sum](https://leetcode.com/problems/3sum)                                                                                                           |
-   | <ul><li>[ ] Tries: 0 </li></ul> | 6   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)                                                   |
+   | <ul><li>[x] Tries: 1 </li></ul> | 6   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)                                                   |
    | <ul><li>[x] Tries: 2 </li></ul> | 7   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                                 |
    | <ul><li>[x] Tries: 2 </li></ul> | 8   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                                                       |
    | <ul><li>[x] Tries: 1 </li></ul> | 9   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)                                                                           |
