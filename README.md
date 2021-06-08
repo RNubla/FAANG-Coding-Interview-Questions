@@ -37,7 +37,7 @@
    | <ul><li>[ ] Tries: 0 </li></ul> | 11  | [Combination Sum](https://leetcode.com/problems/combination-sum)                                                                                     |
    | <ul><li>[x] Tries: 2 </li></ul> | 12  | [Rotate Image](https://leetcode.com/problems/rotate-image)                                                                                           |
    | <ul><li>[ ] Tries: 0 </li></ul> | 13  | [Group Anagrams](https://leetcode.com/problems/group-anagrams)                                                                                       |
-   | <ul><li>[ ] Tries: 0 </li></ul> | 14  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                                                                   |
+   | <ul><li>[x] Tries: 1 </li></ul> | 14  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                                                                   |
    | <ul><li>[ ] Tries: 0 </li></ul> | 15  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)                                                                                         |
    | <ul><li>[ ] Tries: 0 </li></ul> | 16  | [Jump Game](https://leetcode.com/problems/jump-game)                                                                                                 |
    | <ul><li>[ ] Tries: 0 </li></ul> | 17  | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                                                                     |
