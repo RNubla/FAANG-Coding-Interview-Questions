@@ -40,7 +40,7 @@
    | <ul><li>[x] Tries: 1 </li></ul> | 14  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                                                                   |
    | <ul><li>[ ] Tries: 0 </li></ul> | 15  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)                                                                                         |
    | <ul><li>[ ] Tries: 0 </li></ul> | 16  | [Jump Game](https://leetcode.com/problems/jump-game)                                                                                                 |
-   | <ul><li>[ ] Tries: 0 </li></ul> | 17  | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                                                                     |
+   | <ul><li>[x] Tries: 1 </li></ul> | 17  | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                                                                     |
    | <ul><li>[ ] Tries: 0 </li></ul> | 18  | [Insert Interval](https://leetcode.com/problems/insert-interval)                                                                                     |
    | <ul><li>[ ] Tries: 0 </li></ul> | 19  | [Unique Paths](https://leetcode.com/problems/unique-paths)                                                                                           |
    | <ul><li>[ ] Tries: 0 </li></ul> | 20  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                                                                     |
